@@ -1,0 +1,19 @@
+body{
+    background-image:url(level_one.jpg);
+    background-repeat: repeat;
+    
+}
+div{
+    background-color:blue;
+    border-color: orangered;
+    border-width: thick;
+    border-style: double;
+}
+p{
+    color: yellow;
+}
+span{
+    
+    background: red;
+    color: black;
+}
